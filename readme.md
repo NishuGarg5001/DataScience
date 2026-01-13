@@ -1,1 +1,1 @@
-This project is my implementation of Neural Networks in python.
+This project is my notes for Data Science.
